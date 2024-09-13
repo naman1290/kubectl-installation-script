@@ -2,7 +2,7 @@
 Repository for kubectl installation with script
 
 # To install kubectl 
-Run the below commands
+Clone the repository and Run the below commands
 
 ```chmod +x kubectl-install.sh```
 
